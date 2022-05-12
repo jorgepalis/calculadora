@@ -20,7 +20,7 @@ function App() {
       setInput(evaluate(input))
     }
     else{
-      alert("No puede operar valores vacios")
+      alert("No puede operar valor vacio")
     }
   }
 
